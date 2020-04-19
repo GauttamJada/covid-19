@@ -1,4 +1,4 @@
 [build]
-  command = "npm run build"
-  publish="covid-19/build"
-  base = "covid-19"
+  command = "yarn build"
+  functions = "covid-19"
+  publish = "covid-19"
